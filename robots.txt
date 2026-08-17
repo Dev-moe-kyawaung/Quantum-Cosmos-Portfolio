@@ -1,0 +1,9 @@
+# Robots.txt for Quantum Portfolio
+
+User-agent: *
+Allow: /
+
+# Block sensitive paths
+Disallow: /admin/
+Disallow: /private/
+Disallow: /tmp/
